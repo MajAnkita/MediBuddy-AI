@@ -1,1 +1,2 @@
-# MediBuddy-AI
+#MediBuddy AI
+An AI-powered healthcare assistant chatbot designed to improve accessibility across diverse user groups. The system supports Hinglish (Hindi–English) interactions and provides real-time health tips, symptom-based guidance, basic emergency support, and seamless redirection to nearby campus medical services. The project emphasizes usability, inclusivity, and practical healthcare assistance in a campus environment.
